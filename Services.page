@@ -1,27 +1,25 @@
-# Services on EmersonNet
-
-## Creating a new service
+# Creating a new service
 Feel free to create a new service to consume any available data or to produce data. Remember, that
 many of the connections on EmersonNet are residential connections and are limited in both aggregate
 bandwidth and upload capacity.
 
-## List of Services
+# List of Services
 
-### Slack Services
+## Slack Services
 Service                                       Owner
 --------------------------------------------  ---------------------
 [Papika](Slack Service#Papika)                kedo
 [TSArelay](Slack Service#TSArelay)            nattofriends
 [Kokona](Slack Service#Kokona)                SZI
 
-### File Shares
+## File Shares
 Service                                       Owner
 --------------------------------------------  ----------------------
 [Plex](File Share#Plex)                       kedo
 [Illya](File Share#Illya)                     ATRAN
 [SZIMusic](File Share#SZIMusic)               SZI
 
-### Utility Services
+## Utility Services
 Service                                       Owner
 --------------------------------------------  -----------------------
 [Zeroconf/mDNS](Utility Service#Zeroconf)     nichi
