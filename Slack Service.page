@@ -1,0 +1,14 @@
+# Slack Services
+
+## What is a Slack Service?
+Slack Services are services that either enable communication to Slack or actually consume/produce content to Slack.
+
+## Papika
+A utility which operates a kafka producer which publishes from Slack onto the topic called `papika_from_slack` and
+consumes kafka data and sends it to Slack on `papika_to_slack`.
+
+## TSARelay
+Relays posts from Techie Scum App onto the Slack `#techiescumapp` channel.
+
+## Kokona
+A Slack bot which responds to user interaction.
