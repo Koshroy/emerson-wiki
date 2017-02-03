@@ -1,0 +1,8 @@
+# Current Proposals
+- [Audit slowdown in Papika](Papika Slowdown Proposal)
+- [Bridge Apartments](Bridge Apartments Proposal)
+
+# Completed Proposals
+
+- Run 3 instances of zookeeper
+- Run 3 instances of kafka
