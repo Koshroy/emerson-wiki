@@ -9,20 +9,22 @@ bandwidth and upload capacity.
 
 ### Slack Services
 Service                                       Owner
---------------------------------------------  ----------------
+--------------------------------------------  ---------------------
 [Papika](Slack Service#Papika)                kedo
 [TSArelay](Slack Service#TSArelay)            nattofriends
 [Kokona](Slack Service#Kokona)                SZI
 
 ### File Shares
 Service                                       Owner
---------------------------------------------  ----------------
+--------------------------------------------  ----------------------
 [Plex](File Share#Plex)                       kedo
 [Illya](File Share#Illya)                     ATRAN
 [SZIMusic](File Share#SZIMusic)               SZI
 
 ### Utility Services
 Service                                       Owner
---------------------------------------------  ----------------
+--------------------------------------------  -----------------------
 [Zeroconf/mDNS](Utility Service#Zeroconf)     nichi
 [EmersonNet Wiki]()                           SZI
+[Zookeeper](Utility Service#Zookeeper)        kedo, SZI, nattofriends
+[Kafka](Utility Service#Kafka)                kedo, SZI, nattofriends   
